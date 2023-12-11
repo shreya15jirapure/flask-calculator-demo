@@ -74,9 +74,3 @@ curl -X POST -F "operation=add" -F "num1=5" -F "num2=3" http://127.0.0.1:5000/ca
 
 - If you encounter issues, check the console where the Flask app is running for error messages.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Replace `your-username` with your actual GitHub username if you are hosting this on GitHub. Additionally, you might want to customize the content based on any specific details or instructions relevant to your project.
