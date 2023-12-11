@@ -1,4 +1,4 @@
-Certainly! Below is a basic `README.md` file for your Flask Calculator app. Feel free to customize it further based on your project details
+
 
 ```markdown
 # Flask Calculator
