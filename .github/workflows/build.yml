@@ -6,7 +6,7 @@ on:
       - main  # You can specify your main branch here
 
 jobs:
-  build:
+  ecs-ci-cd:
     runs-on: ubuntu-latest  # You can choose a different runner if needed
 
     steps:
