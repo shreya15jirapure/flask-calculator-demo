@@ -30,4 +30,4 @@ jobs:
 
     - name: Deploy to ECS
       run: |
-        aws ecs update-service --cluster ecs-demo --service ecs-service --force-new-deployment
+        aws ecs update-service --cluster ecs-demo --service ecs-demo --force-new-deployment
