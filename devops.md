@@ -75,12 +75,3 @@ Your Flask API should now be accessible at [http://localhost:5000/](http://local
 - The provided Dockerfile assumes a basic project structure. Adjust it based on your actual project structure and dependencies.
 - In a production environment, consider using a production-ready server like Gunicorn and securing your API appropriately.
 
-## Troubleshooting
-
-- If you encounter issues, check the Docker build and run logs for error messages.
-- Ensure that there are no port conflicts with other services running on your machine.
-```
-
-Replace `your-username` with your actual GitHub username if you have cloned the project from GitHub.
-
-This README provides a step-by-step guide on setting up the Flask API project using Docker, building a Docker image, running a Docker container, and accessing the API. Additionally, it includes additional notes and troubleshooting tips.
